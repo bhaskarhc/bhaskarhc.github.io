@@ -35,7 +35,7 @@ analytics:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
