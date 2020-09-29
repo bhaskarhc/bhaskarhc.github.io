@@ -10,7 +10,7 @@ main:
 
 docs:
   - title: Getting Started
-    url: /
+    url: /metacontroller/
     children:
       - title: Introduction
         url: /
