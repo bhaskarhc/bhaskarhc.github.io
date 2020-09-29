@@ -27,10 +27,10 @@ repo_file: https://github.com/GoogleCloudPlatform/metacontroller/blob/master
 repo_raw: https://raw.githubusercontent.com/GoogleCloudPlatform/metacontroller/master
 
 breadcrumbs: true
-analytics:
-  provider: google
-  google:
-    tracking_id: UA-136881871-1
+# analytics:
+#   provider: google
+#   google:
+#     tracking_id: UA-136881871-1
 
 # Build settings
 markdown: kramdown
